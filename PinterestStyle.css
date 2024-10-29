@@ -1,0 +1,23 @@
+.pin{
+    width: 275px;
+    height: 450px;
+    border-radius: 15px;
+    top: 10%;
+    border: 3px solid forestgreen;
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+
+.Destext{
+    font-size:medium;
+    position: absolute;
+    color: black;
+    font-weight:bold;
+    left: 4%;
+    top: 30%;
+    text-align: center;
+    background-color: antiquewhite;
+    width: 200px;
+}
